@@ -1,2 +1,2 @@
-# Hello, my Git world!
+# Hello, our Git world!
 
